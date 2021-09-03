@@ -126,10 +126,8 @@
 }
 
 .animate-desktop-book-arrow {
-  -webkit-animation: animate-desktop-book-arrow 2s both;
-          animation: animate-desktop-book-arrow 2s both;
-  -webkit-animation-delay: 0;
-          animation-delay: 0;
+  -webkit-animation: animate-desktop-book-arrow 1.2s both;
+          animation: animate-desktop-book-arrow 1.2s both;
   -webkit-animation-timing-function: linear;
           animation-timing-function: linear;
 }
@@ -177,10 +175,8 @@
 }
 
 .animate-mobile-book-arrow {
-  -webkit-animation: animate-mobile-book-arrow 2s both;
-          animation: animate-mobile-book-arrow 2s both;
-  -webkit-animation-delay: 0;
-          animation-delay: 0;
+  -webkit-animation: animate-mobile-book-arrow 1.2s both;
+          animation: animate-mobile-book-arrow 1.2s both;
   -webkit-animation-timing-function: linear;
           animation-timing-function: linear;
 }
@@ -228,10 +224,8 @@
 }
 
 .animate-desktop-game-arrow {
-  -webkit-animation: animate-desktop-game-arrow 2s both;
-          animation: animate-desktop-game-arrow 2s both;
-  -webkit-animation-delay: 0;
-          animation-delay: 0;
+  -webkit-animation: animate-desktop-game-arrow 1.2s both;
+          animation: animate-desktop-game-arrow 1.2s both;
   -webkit-animation-timing-function: linear;
           animation-timing-function: linear;
 }
@@ -279,10 +273,8 @@
 }
 
 .animate-mobile-game-arrow {
-  -webkit-animation: animate-mobile-game-arrow 2s both;
-          animation: animate-mobile-game-arrow 2s both;
-  -webkit-animation-delay: 0;
-          animation-delay: 0;
+  -webkit-animation: animate-mobile-game-arrow 1.2s both;
+          animation: animate-mobile-game-arrow 1.2s both;
   -webkit-animation-timing-function: linear;
           animation-timing-function: linear;
 }
@@ -757,18 +749,6 @@ h6 {
 
 .scroll-to {
   cursor: pointer;
-}
-
-.link {
-  font-size: 0.5625rem;
-  line-height: 0.75rem;
-  text-decoration: none;
-  color: #000;
-}
-
-.link--large {
-  font-size: 0.75rem;
-  line-height: 1rem;
 }
 
 .blue-btn {
@@ -1297,11 +1277,6 @@ h6 {
     font-size: 2rem;
     line-height: 2.1875rem;
     margin-bottom: 48px;
-  }
-
-  .link {
-    padding-left: 12px;
-    padding-right: 12px;
   }
 
   .sticker__text {
