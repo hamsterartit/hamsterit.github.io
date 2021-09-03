@@ -7,16 +7,16 @@
     <meta name="description" content="Онлайн-школа Skysmart">
     <link rel="stylesheet" type="text/css" href="styles/css/styles.min.css">
     <link rel="apple-touch-icon" sizes="x" href="apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-<link rel="manifest" href="site.webmanifest">
-<meta name="theme-color" content="#ffffff">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
+    <meta name="theme-color" content="#ffffff">
 </head>
 <body>
 
 <header class="header">
     <div class="header__container _container">
         <div class="header__block">
-            <a class="logo" href="./">
+            <a class="logo" href="/">
                 <img src="styles/img/logo.svg" alt="Онлайн-школа Skysmart">
             </a>
             <nav class="nav header__nav">
@@ -24,14 +24,14 @@
                     <li class="nav__item">
                         <a href="" class="nav__link">Все предметы
                             <svg class="nav__link-icon">
-                                <use xlink:href="/styles/icons/icons.svg#arrow-down"></use>
+                                <use xlink:href="styles/icons/icons.svg#arrow-down"></use>
                             </svg>
                         </a>
                     </li>
                     <li class="nav__item">
                         <a href="" class="nav__link">О школе
                             <svg class="nav__link-icon">
-                                <use xlink:href="/styles/icons/icons.svg#arrow-down"></use>
+                                <use xlink:href="styles/icons/icons.svg#arrow-down"></use>
                             </svg>
                         </a>
                     </li>
@@ -172,10 +172,10 @@
                     </video>
                     <button class="video__btn video-btn video-btn--off" title="Включить звук">
                         <svg class="video-btn__icon video-btn__icon--on">
-                            <use xlink:href="/styles/icons/icons.svg#sound-on"></use>
+                            <use xlink:href="styles/icons/icons.svg#sound-on"></use>
                         </svg>
                         <svg class="video-btn__icon video-btn__icon--off">
-                            <use xlink:href="/styles/icons/icons.svg#sound-off"></use>
+                            <use xlink:href="styles/icons/icons.svg#sound-off"></use>
                         </svg>
                     </button>
                 </div>
@@ -187,10 +187,10 @@
                     </video>
                     <button class="video__btn video-btn video-btn--off" title="Включить звук">
                         <svg class="video-btn__icon video-btn__icon--on">
-                            <use xlink:href="/styles/icons/icons.svg#sound-on"></use>
+                            <use xlink:href="styles/icons/icons.svg#sound-on"></use>
                         </svg>
                         <svg class="video-btn__icon video-btn__icon--off">
-                            <use xlink:href="/styles/icons/icons.svg#sound-off"></use>
+                            <use xlink:href="styles/icons/icons.svg#sound-off"></use>
                         </svg>
                     </button>
                 </div>
@@ -202,10 +202,10 @@
                     </video>
                     <button class="video__btn video-btn video-btn--off" title="Включить звук">
                         <svg class="video-btn__icon video-btn__icon--on">
-                            <use xlink:href="/styles/icons/icons.svg#sound-on"></use>
+                            <use xlink:href="styles/icons/icons.svg#sound-on"></use>
                         </svg>
                         <svg class="video-btn__icon video-btn__icon--off">
-                            <use xlink:href="/styles/icons/icons.svg#sound-off"></use>
+                            <use xlink:href="styles/icons/icons.svg#sound-off"></use>
                         </svg>
                     </button>
                 </div>
@@ -235,26 +235,26 @@
                            stroke-linecap="round" fill="none" d="M5.1,239.2l4.3-30.8l5-23.6l6.5-25.3l12.7-33.3l17.1-32.1l23.7-29l19.1-15.9L116,37.1l24.1-7.3l23.2-2.1
                             l21.4,2.1l18.7,4.5l18.9,8.6l18.7,11.9l19.8,17.8l11.4,15.5l11.4,22.5l6.6,21.6l2,20.3l-1.1,7.3"/>
                         </svg>
-                <img class="game-img__person" src="./styles/img/game-person.png" alt="">
-                <img class="game-img__shadow" src="./styles/img/shadow.svg" alt="">
+                <img class="game-img__person" src="styles/img/game-person.png" alt="">
+                <img class="game-img__shadow" src="styles/img/shadow.svg" alt="">
                 <div class="game-img__pizza-place pizza-place">
-                    <img src="./styles/img/pizza-place.svg" alt="">
+                    <img src="styles/img/pizza-place.svg" alt="">
                 </div>
             </div>
             <div class="game-info">
                 <h2 class="game__desktop-title title">Чтобы записаться на вводный урок, покормите Эла</h2>
                 <div class="game-info__animation">
-                   <div class="game-info__sticker">
-                       <div class="sticker-3 sticker">
-                           <div class="sticker__text">получилось</div>
-                           <div class="sticker-3__back"></div>
-                           <svg width="0" height="0">
-                               <clipPath id="sticker-3" clipPathUnits="objectBoundingBox">
-                                   <path d="M0.987,0.439 C0.947,0.355,0.914,0.221,0.894,0.056 C0.89,0.022,0.884,0.004,0.878,0.004 C0.878,0.004,0.878,0.004,0.878,0.004 C0.878,0.004,0.878,0.004,0.878,0.004 C0.876,0.004,0.875,0.004,0.873,0.005 C0.715,0.11,0.286,0.11,0.127,0.005 C0.125,0.004,0.124,0.004,0.123,0.004 C0.117,0.004,0.111,0.021,0.106,0.056 C0.086,0.221,0.053,0.355,0.013,0.439 C-0.004,0.475,-0.004,0.533,0.013,0.569 C0.053,0.652,0.086,0.786,0.106,0.951 C0.111,0.986,0.117,1,0.123,1 C0.124,1,0.125,1,0.127,1 C0.286,0.898,0.715,0.898,0.873,1 C0.875,1,0.876,1,0.878,1 C0.878,1,0.878,1,0.878,1 C0.878,1,0.878,1,0.878,1 C0.884,1,0.89,0.986,0.894,0.951 C0.914,0.786,0.947,0.652,0.987,0.569 C1,0.533,1,0.475,0.987,0.439"/>
-                               </clipPath>
-                           </svg>
-                       </div>
-                   </div>
+                    <div class="game-info__sticker">
+                        <div class="sticker-3 sticker">
+                            <div class="sticker__text">получилось</div>
+                            <div class="sticker-3__back"></div>
+                            <svg width="0" height="0">
+                                <clipPath id="sticker-3" clipPathUnits="objectBoundingBox">
+                                    <path d="M0.987,0.439 C0.947,0.355,0.914,0.221,0.894,0.056 C0.89,0.022,0.884,0.004,0.878,0.004 C0.878,0.004,0.878,0.004,0.878,0.004 C0.878,0.004,0.878,0.004,0.878,0.004 C0.876,0.004,0.875,0.004,0.873,0.005 C0.715,0.11,0.286,0.11,0.127,0.005 C0.125,0.004,0.124,0.004,0.123,0.004 C0.117,0.004,0.111,0.021,0.106,0.056 C0.086,0.221,0.053,0.355,0.013,0.439 C-0.004,0.475,-0.004,0.533,0.013,0.569 C0.053,0.652,0.086,0.786,0.106,0.951 C0.111,0.986,0.117,1,0.123,1 C0.124,1,0.125,1,0.127,1 C0.286,0.898,0.715,0.898,0.873,1 C0.875,1,0.876,1,0.878,1 C0.878,1,0.878,1,0.878,1 C0.878,1,0.878,1,0.878,1 C0.884,1,0.89,0.986,0.894,0.951 C0.914,0.786,0.947,0.652,0.987,0.569 C1,0.533,1,0.475,0.987,0.439"/>
+                                </clipPath>
+                            </svg>
+                        </div>
+                    </div>
                     <svg class="game-info__desktop-arrow"
                          version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                          viewBox="0 0 492.8 235" enable-background="new 0 0 492.8 235" xml:space="preserve">
@@ -275,7 +275,7 @@
                               stroke-linecap="round" fill="none" d="M489.6,165.20000000000002L456.1,126.30000000000001L406.90000000000003,92.80000000000001L363.1,78.9L300,75L243.40000000000003,81.69999999999999L189.20000000000002,96.69999999999999L138.20000000000002,123.8L107.50000000000001,147L75.80000000000001,182.29999999999998L63.300000000000004,209.39999999999998L66.9,225.39999999999998L82.9,231.79999999999998L96,227.2L107.3,212L116.89999999999999,188.1L125.49999999999999,158.2L127.99999999999999,117.6L124.69999999999999,77.3L111.19999999999999,44L93.39999999999999,28.999999999999996L70.6,23.299999999999997L46.8,26.599999999999998L28.5,33.8L13.8,39L21.9,15.3"/>
                     </svg>
                     <div class="game-info__pizza">
-                        <img class="pizza" draggable="true" src="./styles/img/pizza.png" alt="">
+                        <img class="pizza" draggable="true" src="styles/img/pizza.png" alt="">
                     </div>
                 </div>
             </div>
@@ -285,7 +285,7 @@
 <footer class="footer">
     <div class="footer__container _container">
         <div class="footer__block">
-            <a class="logo" href="./">
+            <a class="logo" href="/">
                 <img src="styles/img/logo.svg" alt="Онлайн-школа Skysmart">
             </a>
             <div class="footer__copyright">© 2021</div>
