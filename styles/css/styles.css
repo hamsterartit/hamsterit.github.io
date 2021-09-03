@@ -1318,7 +1318,7 @@ h6 {
 
   .banner-section {
     padding-top: 45px;
-    padding-bottom: 45px;
+    padding-bottom: 80px;
   }
 
   .banner-section__title {
@@ -1380,9 +1380,9 @@ h6 {
   }
 
   .book-lesson-scroll-block__back-blur {
-    left: -7px;
+    left: -4px;
     bottom: 0;
-    top: -37px;
+    top: -33px;
     width: 64%;
     height: 100%;
     -webkit-clip-path: url(#free-lesson-block-desktop-back);
@@ -1546,12 +1546,12 @@ h6 {
   }
 
   .banner-section__sticker-1 {
-    top: 67%;
+    top: 74%;
     left: 46%;
   }
 
   .banner-section__sticker-2 {
-    top: 39%;
+    top: 45%;
     left: 51%;
     transform: rotate(12.34deg);
   }
