@@ -6,10 +6,10 @@
     <title>Онлайн-школа Skysmart</title>
     <meta name="description" content="Онлайн-школа Skysmart">
     <link rel="stylesheet" type="text/css" href="styles/css/styles.min.css">
-    <link rel="apple-touch-icon" sizes="x" href="apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-    <link rel="manifest" href="site.webmanifest">
-    <meta name="theme-color" content="#ffffff">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<link rel="manifest" href="site.webmanifest">
+<meta name="theme-color" content="#ffffff">
 </head>
 <body>
 
@@ -168,7 +168,7 @@
             <div class="tabs__content tabs__content--active" id="tab-1">
                 <div class="video">
                     <video class="video__item" muted>
-                        <source src="img/Вводный урок.mp4" type="video/mp4">
+                        <source src="img/lesson.mp4" type="video/mp4">
                     </video>
                     <button class="video__btn video-btn video-btn--off" title="Включить звук">
                         <svg class="video-btn__icon video-btn__icon--on">
@@ -183,7 +183,7 @@
             <div class="tabs__content" id="tab-2">
                 <div class="video">
                     <video class="video__item" muted>
-                        <source src="img/Английский язык.mp4" type="video/mp4">
+                        <source src="img/english.mp4" type="video/mp4">
                     </video>
                     <button class="video__btn video-btn video-btn--off" title="Включить звук">
                         <svg class="video-btn__icon video-btn__icon--on">
@@ -198,7 +198,7 @@
             <div class="tabs__content" id="tab-3">
                 <div class="video">
                     <video class="video__item" muted>
-                        <source src="img/Математика.mp4" type="video/mp4">
+                        <source src="img/math.mp4" type="video/mp4">
                     </video>
                     <button class="video__btn video-btn video-btn--off" title="Включить звук">
                         <svg class="video-btn__icon video-btn__icon--on">
@@ -244,17 +244,17 @@
             <div class="game-info">
                 <h2 class="game__desktop-title title">Чтобы записаться на вводный урок, покормите Эла</h2>
                 <div class="game-info__animation">
-                    <div class="game-info__sticker">
-                        <div class="sticker-3 sticker">
-                            <div class="sticker__text">получилось</div>
-                            <div class="sticker-3__back"></div>
-                            <svg width="0" height="0">
-                                <clipPath id="sticker-3" clipPathUnits="objectBoundingBox">
-                                    <path d="M0.987,0.439 C0.947,0.355,0.914,0.221,0.894,0.056 C0.89,0.022,0.884,0.004,0.878,0.004 C0.878,0.004,0.878,0.004,0.878,0.004 C0.878,0.004,0.878,0.004,0.878,0.004 C0.876,0.004,0.875,0.004,0.873,0.005 C0.715,0.11,0.286,0.11,0.127,0.005 C0.125,0.004,0.124,0.004,0.123,0.004 C0.117,0.004,0.111,0.021,0.106,0.056 C0.086,0.221,0.053,0.355,0.013,0.439 C-0.004,0.475,-0.004,0.533,0.013,0.569 C0.053,0.652,0.086,0.786,0.106,0.951 C0.111,0.986,0.117,1,0.123,1 C0.124,1,0.125,1,0.127,1 C0.286,0.898,0.715,0.898,0.873,1 C0.875,1,0.876,1,0.878,1 C0.878,1,0.878,1,0.878,1 C0.878,1,0.878,1,0.878,1 C0.884,1,0.89,0.986,0.894,0.951 C0.914,0.786,0.947,0.652,0.987,0.569 C1,0.533,1,0.475,0.987,0.439"/>
-                                </clipPath>
-                            </svg>
-                        </div>
-                    </div>
+                   <div class="game-info__sticker">
+                       <div class="sticker-3 sticker">
+                           <div class="sticker__text">получилось</div>
+                           <div class="sticker-3__back"></div>
+                           <svg width="0" height="0">
+                               <clipPath id="sticker-3" clipPathUnits="objectBoundingBox">
+                                   <path d="M0.987,0.439 C0.947,0.355,0.914,0.221,0.894,0.056 C0.89,0.022,0.884,0.004,0.878,0.004 C0.878,0.004,0.878,0.004,0.878,0.004 C0.878,0.004,0.878,0.004,0.878,0.004 C0.876,0.004,0.875,0.004,0.873,0.005 C0.715,0.11,0.286,0.11,0.127,0.005 C0.125,0.004,0.124,0.004,0.123,0.004 C0.117,0.004,0.111,0.021,0.106,0.056 C0.086,0.221,0.053,0.355,0.013,0.439 C-0.004,0.475,-0.004,0.533,0.013,0.569 C0.053,0.652,0.086,0.786,0.106,0.951 C0.111,0.986,0.117,1,0.123,1 C0.124,1,0.125,1,0.127,1 C0.286,0.898,0.715,0.898,0.873,1 C0.875,1,0.876,1,0.878,1 C0.878,1,0.878,1,0.878,1 C0.878,1,0.878,1,0.878,1 C0.884,1,0.89,0.986,0.894,0.951 C0.914,0.786,0.947,0.652,0.987,0.569 C1,0.533,1,0.475,0.987,0.439"/>
+                               </clipPath>
+                           </svg>
+                       </div>
+                   </div>
                     <svg class="game-info__desktop-arrow"
                          version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                          viewBox="0 0 492.8 235" enable-background="new 0 0 492.8 235" xml:space="preserve">
