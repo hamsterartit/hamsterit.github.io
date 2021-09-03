@@ -1,0 +1,34 @@
+%svg-common {
+	background: url("svg/sprite.css-c1d3954d.svg") no-repeat;
+}
+
+.svg-arrow-down {
+	@extend %svg-common;
+	background-position: 0 97.01492537313433%;
+}
+
+.svg-arrow-down-dims {
+	width: 7.4px;
+	height: 4.2px;
+}
+
+.svg-sound-off {
+	@extend %svg-common;
+	background-position: 0 0;
+}
+
+.svg-sound-off-dims {
+	width: 33px;
+	height: 26px;
+}
+
+.svg-sound-on {
+	@extend %svg-common;
+	background-position: 100% 0;
+}
+
+.svg-sound-on-dims {
+	width: 28px;
+	height: 26px;
+}
+

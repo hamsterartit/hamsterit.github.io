@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'StratosSkyeng';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('stratosskyengweb-regular.woff2') format('woff2'), url('stratosskyengweb-regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'StratosSkyeng';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('stratosskyengweb-medium.woff2') format('woff2'), url('stratosskyengweb-medium.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'StratosSkyeng';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('stratosskyengweb-semibold.woff2') format('woff2'), url('stratosskyengweb-semibold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'StratosSkyeng';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('stratosskyengweb-italic.woff2') format('woff2'), url('stratosskyengweb-italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'StratosSkyeng';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url('stratosskyengweb-italic.woff2') format('woff2'), url('stratosskyengweb-italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'StratosSkyeng';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('stratosskyengweb-semibolditalic.woff2') format('woff2'),
+    url('stratosskyengweb-semibolditalic.woff') format('woff');
+}
